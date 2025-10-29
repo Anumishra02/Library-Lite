@@ -9,20 +9,6 @@ A full-stack TypeScript/React + Node.js library management system demonstrating:
 - OpenLibrary integration for book population
 - Testing with Jest and Supertest
 
-### Project Structure
-  library-lite/
-├── backend/
-│   ├── server.js          # Express server + routes
-│   ├── populate.test.js   # API tests
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── components/    # React components
-│   │   ├── services/      # API services
-│   │   └── types/         # TypeScript definitions
-│   └── package.json
-└── README.md
-
 ### Quick Start
 
 1. Prerequisites:
@@ -119,6 +105,7 @@ Key files:
 - `frontend/src/components/Catalog.tsx` - Main UI component
 - `backend/server.js` - Express server + API routes
 - `frontend/src/services/libraryService.ts` - API client/business logic
+
 
 
 
