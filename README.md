@@ -106,10 +106,4 @@ Key files:
 - `backend/server.js` - Express server + API routes
 - `frontend/src/services/libraryService.ts` - API client/business logic
 
-### Screenshots
 
-![Populate Books](docs/populate-books.png)
-_Populate dialog showing OpenLibrary integration_
-
-![Book List](docs/book-list.png)
-_Main catalog with cover images and tags_
